@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|c:\\users\\batuh\\desktop\\asp.net.auth\\autheightapp\\autheightapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|solutionrelative:autheightapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|c:\\users\\batuh\\desktop\\asp.net.auth\\autheightapp\\autheightapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|solutionrelative:autheightapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|c:\\users\\batuh\\desktop\\asp.net.auth\\autheightapp\\autheightapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|solutionrelative:autheightapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|c:\\users\\batuh\\desktop\\asp.net.auth\\autheightapp\\autheightapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5952134B-DC44-482D-B7A6-733D186DE64E}|AuthEightApp\\AuthEightApp.csproj|solutionrelative:autheightapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthEightApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthEightApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:25:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthEightApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\appsettings.json",
+              "RelativeToolTip": "AuthEightApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T12:57:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "AuthEightApp\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "AuthEightApp\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:40:33.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\Program.cs",
+              "RelativeDocumentMoniker": "AuthEightApp\\Program.cs",
+              "ToolTip": "C:\\Users\\batuh\\Desktop\\asp.net.auth\\AuthEightApp\\AuthEightApp\\Program.cs",
+              "RelativeToolTip": "AuthEightApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:39:40.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
